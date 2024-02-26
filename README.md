@@ -20,3 +20,11 @@ What I learned today
 This is a [link to a website](https://neuefische.de)
 
 ![a picture of a mountain in the distance](https://images.unsplash.com/photo-1708852154434-d6436655b99d?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+```
+a nice code block
+```
+
+```js
+const value = '1234'
+```
